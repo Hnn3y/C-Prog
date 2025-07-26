@@ -6,7 +6,7 @@ int main ()
     printf ("Enter your values: ");
     scanf ("%d%d", &K, &X);
 
-    U=1/2*K*X;
+    U=0.5*K*X;
 
     printf("%d\n", U);
     return 0;
