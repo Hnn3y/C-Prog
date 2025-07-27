@@ -1,5 +1,5 @@
 #include <stdio.h>
-int maain () 
+int main () 
 {
     //Basic Arithemetic Operation
     int result = 10 + 5;
