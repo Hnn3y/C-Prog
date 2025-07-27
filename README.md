@@ -1,7 +1,7 @@
 ## C-Prog
 
 ### 01_BEGINNER – Foundation Concepts
-| Topic                     | Aim                                                     |
+| Topic                     | Learning Objective                                                     |
 | ------------------------- | ----------------------------------------------------------------- |
 | **First Coding**          | Teaches `main()`, `#include`, basic output.      |
 | **Comments**              | Teaches how to annotate and document code.                        |
