@@ -9,6 +9,11 @@ int main ()
     
     printf("expected ';' before '}' token");
     printf("Error Type: Syntax Error");
+
+    printf("incompatible types when assigning to type 'X' from type 'Y'");
+    printf("Error Type: Type Error");
+    printf("int a; float b = 5.5; a = b;  // Error or warning: incompatible types ");
+
     
     return 0;
 }
