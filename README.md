@@ -12,7 +12,7 @@
 | **Booleans**              | Although not native in old C, it's important for control flow.    |
 | **Function Declarations** | Prepares you to break large code into reusable blocks.            |
 | **Function Parameters**   | Introduces input/output to/from functions.                        |
-| **Function**              | Finally, you tie it all together by defining and using functions. |
+| **Function**              | Defining and using functions. |
 
 ### 02_INTERMEDIATE – Control Flow and Logic
 | **Topic**           | **Learning Objective**                                                       |
