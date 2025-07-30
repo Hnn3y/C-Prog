@@ -6,7 +6,7 @@ int main ()
     float floatValue = 3.14;
     char charValue = 'B';
 
-    printf("integer:%d", integer);
-
+    printf("integer is:%d\n", integer);
+    printf("Float number is: %.2f\n", floatValue);
     return 0;
 }
